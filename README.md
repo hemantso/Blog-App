@@ -1,7 +1,7 @@
 # Blog-App
 Simple blog application created using Ruby on Rails 
 
-![image](./app/assets/images/screen.png)
+![image](./screen.png)
 
 
 ## Built With
